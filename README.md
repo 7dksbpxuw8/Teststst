@@ -1,1 +1,0 @@
-bu script logger vardır
