@@ -1,1 +1,1 @@
-Burada logger vardır
+bu script logger vardır
